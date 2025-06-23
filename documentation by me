@@ -1,0 +1,39 @@
+npx create-next-app@latest [project-name] [options]
+
+npx shadcn@latest init
+
+npm install lucide-react
+
+npx shadcn@latest add input
+
+frammer
+npm install motion
+
+
+swipper //swap garna ko lagi
+https://swiperjs.com/get-started
+npm i swiper
+
+npx shadcn@latest add card
+
+npx shadcn@latest add badge
+
+2:23:01
+
+
+npx shadcn@latest add tabs 
+
+yo chain testimonial ko lagi 
+npx shadcn@latest add avatar
+
+npx shadcn@latest add separator
+
+
+//backend
+npm i mongoose
+
+
+npm i bcryptjs
+
+npm i jsonwebtoken
+npm i --save-dev @types/jsonwebtoken
